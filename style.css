@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 25px;
+}
+.header{
+    height: 500px;
+    background-image:url(./Vector\ \(4\).png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.button a{
+    background: linear-gradient(215.31deg, #F9F0C3 9.73%, #EFBB03 71.72%);
+border-radius: 100px;
+    border-radius: 100px;
+    padding: 15px 60px;
+}
+.block1{
+    position: absolute;
+    right: 169px;
+    display: flex;
+}
+.text{
+    padding: 250px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+}
+.block2{
+    right: 200px;
+    display: flex;
+    padding: 100px;
+    padding-right: 400px;
+}
+.img2{
+    padding-left: 160px;
+}
+.img3{
+    padding-right: 160px;
+}
+.h2{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: rgb(76, 76, 196);
+    padding: 24px;
+}
+.p1{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    color: rgb(115, 115, 179);
+    padding: 24px;
+}
+.p2{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+   color: #566491;
+   padding: 33px;
+   align-items: center;
+}
+h1{
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    color: #23125f;
+    padding-left: 500px;
+}
+th, td{
+    padding: 5px 60px;
+}
+h2{
+    font-weight: 500px;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: rgb(134, 124, 194);
+    
+}
+.work{
+    display: flex;
+}
+.work .left{
+    width: 50%;
+
+    padding: 150px 150px 0 150px;
+}
+.work .right{
+    width: 50%;
+}
+.img4{
+    
+}
+.button2 a{
+    background: linear-gradient(215.31deg, #F9F0C3 9.73%, #EFBB03 71.72%);
+border-radius: 100px;
+    border-radius: 100px;
+    padding: 15px 20px;
+    font-size: 14px;
+line-height: 16px;
+display: block;
+margin-top: 20px;
+align-items: center;
+text-align: center;
+
+/* Активен */
+
+color: #31456A;
+}
+.img5{
+    padding-left: 260px;
+}
+.header1{
+    height: 500px;
+    background-image: url(./Group\ 3980.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.h3{
+    font-weight: 500px;
+    font-size: 24px;
+    line-height: 28px;
+   
+    align-items: center;
+    color: rgb(53, 37, 143);
+}
+.steps{
+    display: flex;
+}
+.steps .left{
+    background-image: url(./Group\ 3980.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 50%;
+}
+.box{
+    display: flex;
+    width: 300px;
+}
+.box p{
+    padding-top: 30px;
+}
+.block{
+    margin-bottom: 20px;
+}
+.block4{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.box1{
+    margin-right: 140px;
+    max-width: 200px;
+}
+.title{
+    display: block;
+    text-align: center;
+}
+.block4{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
